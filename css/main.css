@@ -19,6 +19,17 @@
 	font-style: normal;
 }
 
+.whiteborder{
+	border: 1px solid white !important;
+
+}
+
+@media only screen and (max-width: 700px) {
+  .pfp {
+    display:none;
+  }
+}
+
 * {
   box-sizing: border-box; }
 
